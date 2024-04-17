@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf8'?>
+<root>
+    <commande>
+        <date>26/09/2023</date>
+        <caissier>Mitchell Admin</caissier>
+        <ticket>00062-421-0003</ticket>
+        <heure>17:52:22</heure>
+        <order>
+            <ligne>
+                <code>false</code>
+                <article>Grande armoire</article>
+                <qty>0</qty>
+                <conditionnement>Unités</conditionnement>
+                <pu>320</pu>
+                <pt>0</pt>
+            </ligne>
+            <ligne>
+                <code>false</code>
+                <article>Chaise de bureau</article>
+                <qty>0</qty>
+                <conditionnement>Unités</conditionnement>
+                <pu>70</pu>
+                <pt>0</pt>
+            </ligne>
+            <ligne>
+                <code>false</code>
+                <article>Écrans ant-bruit</article>
+                <qty>0</qty>
+                <conditionnement>Unités</conditionnement>
+                <pu>295</pu>
+                <pt>0</pt>
+            </ligne>
+        </order>
+        <payment_method>
+            <payment_name>Espèces</payment_name>
+            <montant>0</montant>
+            <payment_name>Banque</payment_name>
+            <montant>0</montant>
+        </payment_method>
+        <total>0</total>
+        <taxe>0</taxe>
+    </commande>
+    <commande>
+        <date>26/09/2023</date>
+        <caissier>Mitchell Admin</caissier>
+        <ticket>00062-422-0004</ticket>
+        <heure>17:54:04</heure>
+        <order>
+            <ligne>
+                <code>false</code>
+                <article>Écrans ant-bruit</article>
+                <qty>1</qty>
+                <conditionnement>Unités</conditionnement>
+                <pu>295</pu>
+                <pt>295</pt>
+            </ligne>
+        </order>
+        <payment_method>
+            <payment_name>Espèces</payment_name>
+            <montant>295</montant>
+        </payment_method>
+        <total>295</total>
+        <taxe>0</taxe>
+    </commande>
+    <commande>
+        <date>26/09/2023</date>
+        <caissier>Mitchell Admin</caissier>
+        <ticket>00062-422-0005</ticket>
+        <heure>17:59:46</heure>
+        <order>
+            <ligne>
+                <code>false</code>
+                <article>Écrans ant-bruit</article>
+                <qty>1</qty>
+                <conditionnement>Unités</conditionnement>
+                <pu>295</pu>
+                <pt>295</pt>
+            </ligne>
+        </order>
+        <payment_method>
+            <payment_name>Espèces</payment_name>
+            <montant>295</montant>
+        </payment_method>
+        <total>295</total>
+        <taxe>0</taxe>
+    </commande>
+    <commande>
+        <date>26/09/2023</date>
+        <caissier>Mitchell Admin</caissier>
+        <ticket>00062-422-0006</ticket>
+        <heure>18:00:14</heure>
+        <order>
+            <ligne>
+                <code>false</code>
+                <article>Écrans ant-bruit</article>
+                <qty>1</qty>
+                <conditionnement>Unités</conditionnement>
+                <pu>295</pu>
+                <pt>295</pt>
+            </ligne>
+        </order>
+        <payment_method>
+            <payment_name>Espèces</payment_name>
+            <montant>295</montant>
+        </payment_method>
+        <total>295</total>
+        <taxe>0</taxe>
+    </commande>
+</root>
